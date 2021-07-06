@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datastructure_Csharp", "datastructure_Csharp.csproj", "{D2EE313C-43A9-4A14-A175-A5A2A9FEAB32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array.csproj", "{D2EE313C-43A9-4A14-A175-A5A2A9FEAB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multidimensional-Array", "..\multidimensional-list\multidimensional-Array.csproj", "{EE015F99-F69D-4650-B952-3EED03CF6713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "..\List\List.csproj", "{19D5530A-4124-44FC-8708-D4709F291DBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D2EE313C-43A9-4A14-A175-A5A2A9FEAB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2EE313C-43A9-4A14-A175-A5A2A9FEAB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2EE313C-43A9-4A14-A175-A5A2A9FEAB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE015F99-F69D-4650-B952-3EED03CF6713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE015F99-F69D-4650-B952-3EED03CF6713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE015F99-F69D-4650-B952-3EED03CF6713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE015F99-F69D-4650-B952-3EED03CF6713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D5530A-4124-44FC-8708-D4709F291DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D5530A-4124-44FC-8708-D4709F291DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D5530A-4124-44FC-8708-D4709F291DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D5530A-4124-44FC-8708-D4709F291DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,7 +5,6 @@ C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_stru
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\bin\Debug\net5.0\datastructure_Csharp.dll
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\bin\Debug\net5.0\ref\datastructure_Csharp.dll
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\bin\Debug\net5.0\datastructure_Csharp.pdb
-C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\obj\Debug\net5.0\datastructure_Csharp.csproj.AssemblyReference.cache
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\obj\Debug\net5.0\datastructure_Csharp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\obj\Debug\net5.0\datastructure_Csharp.AssemblyInfoInputs.cache
 C:\Users\한종훈\Dropbox\프로그래밍\인프런\data-structure_C#\data_structure_Csharp\datastructure_Csharp\obj\Debug\net5.0\datastructure_Csharp.AssemblyInfo.cs

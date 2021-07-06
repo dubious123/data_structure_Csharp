@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace datastructure_Csharp
+namespace Array
 {
     class Program
     {
@@ -86,6 +86,7 @@ namespace datastructure_Csharp
             Console.WriteLine("");
 
 
+             
 
 
         }
